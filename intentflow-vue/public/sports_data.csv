@@ -1,0 +1,74 @@
+id,sport,league,home_team,away_team,start_time,status,home_odds,draw_odds,away_odds,venue,country,is_featured,is_live,session_fit
+evt-001,Football,Premier League,Arsenal,Chelsea,2026-09-08T20:00:00Z,LIVE,1.85,3.40,4.20,Emirates Stadium,England,true,true,94
+evt-002,Football,UEFA Champions League,Real Madrid,Man City,2026-09-09T19:00:00Z,UPCOMING,2.10,3.50,3.20,Bernabeu,Spain,true,false,91
+evt-003,Football,La Liga,Barcelona,Atletico Madrid,2026-09-10T19:45:00Z,UPCOMING,1.70,3.60,4.80,Camp Nou,Spain,true,false,88
+evt-004,Football,Bundesliga,Bayern Munich,Dortmund,2026-09-11T18:30:00Z,UPCOMING,1.55,4.10,5.50,Allianz Arena,Germany,true,false,86
+evt-005,Football,Serie A,Juventus,Inter Milan,2026-09-12T19:45:00Z,UPCOMING,2.20,3.30,3.10,Juventus Stadium,Italy,false,false,82
+evt-006,Football,Premier League,Man United,Liverpool,2026-09-13T16:30:00Z,UPCOMING,3.10,3.40,2.30,Old Trafford,England,true,false,90
+evt-007,Football,Ligue 1,PSG,Lyon,2026-09-14T19:00:00Z,UPCOMING,1.45,4.50,7.00,Parc des Princes,France,false,false,75
+evt-008,Football,Premier League,Tottenham,Newcastle,2026-09-15T15:00:00Z,UPCOMING,1.90,3.50,3.90,Tottenham Stadium,England,false,false,77
+evt-009,Basketball,NBA,LA Lakers,Boston Celtics,2026-09-08T01:30:00Z,LIVE,1.95,0,1.85,Crypto.com Arena,USA,true,true,85
+evt-010,Basketball,NBA,Golden State Warriors,Miami Heat,2026-09-09T03:00:00Z,UPCOMING,1.75,0,2.05,Chase Center,USA,false,false,78
+evt-011,Basketball,NBA,Chicago Bulls,New York Knicks,2026-09-10T00:30:00Z,UPCOMING,2.20,0,1.70,United Center,USA,false,false,70
+evt-012,Basketball,NBA,Phoenix Suns,Denver Nuggets,2026-09-11T02:00:00Z,UPCOMING,2.10,0,1.78,Footprint Center,USA,false,false,72
+evt-013,Tennis,ATP Masters,Djokovic,Alcaraz,2026-09-08T14:00:00Z,LIVE,1.60,0,2.40,Roland Garros,France,true,true,80
+evt-014,Tennis,WTA Finals,Swiatek,Sabalenka,2026-09-09T11:00:00Z,UPCOMING,1.55,0,2.50,Shenzhen Arena,China,false,false,72
+evt-015,Tennis,ATP 250,Rublev,Humbert,2026-09-10T10:00:00Z,UPCOMING,1.65,0,2.30,Indoor Arena,France,false,false,65
+evt-016,Football,World Cup Qualifier,England,Italy,2026-09-20T19:30:00Z,UPCOMING,1.80,3.50,4.20,Wembley,England,true,false,87
+evt-017,Football,World Cup Qualifier,Brazil,Argentina,2026-09-21T21:00:00Z,UPCOMING,2.00,3.20,3.60,Maracana,Brazil,true,false,92
+evt-018,Football,World Cup Qualifier,Germany,France,2026-09-22T19:00:00Z,UPCOMING,2.20,3.40,3.10,Allianz Arena,Germany,true,false,89
+evt-019,Basketball,EuroLeague,CSKA Moscow,Barcelona,2026-09-09T18:00:00Z,UPCOMING,2.05,0,1.80,CSKA Arena,Russia,false,false,68
+evt-020,Basketball,EuroLeague,Real Madrid,Fenerbahce,2026-09-10T20:30:00Z,UPCOMING,1.70,0,2.20,WiZink Center,Spain,false,false,70
+evt-021,Cricket,IPL,Mumbai Indians,CSK,2026-09-08T15:30:00Z,LIVE,1.90,0,1.95,Wankhede,India,true,true,82
+evt-022,Cricket,IPL,RCB,KKR,2026-09-09T15:30:00Z,UPCOMING,2.10,0,1.75,Chinnaswamy,India,false,false,74
+evt-023,Cricket,Test,Australia,England,2026-09-12T04:00:00Z,UPCOMING,1.65,3.20,4.80,MCG,Australia,true,false,78
+evt-024,Golf,PGA Tour,Masters Round 1,Field,2026-09-15T13:00:00Z,UPCOMING,0,0,0,Augusta National,USA,true,false,65
+evt-025,Golf,European Tour,BMW Championship,Field,2026-09-16T10:00:00Z,UPCOMING,0,0,0,Wentworth,England,false,false,58
+evt-026,Football,Champions League,Atletico,Ajax,2026-09-09T19:00:00Z,UPCOMING,1.95,3.50,3.80,Metropolitano,Spain,false,false,80
+evt-027,Football,Champions League,Liverpool,Bayern,2026-09-10T20:00:00Z,UPCOMING,2.30,3.30,3.00,Anfield,England,true,false,88
+evt-028,Football,Premier League,Brighton,West Ham,2026-09-11T15:00:00Z,UPCOMING,2.00,3.40,3.70,Amex Stadium,England,false,false,68
+evt-029,Football,Serie A,AC Milan,Napoli,2026-09-12T18:00:00Z,UPCOMING,2.10,3.20,3.40,San Siro,Italy,false,false,75
+evt-030,Football,La Liga,Sevilla,Real Sociedad,2026-09-13T17:30:00Z,UPCOMING,1.95,3.50,3.80,Ramon Sanchez,Spain,false,false,66
+evt-031,Basketball,NBA,Milwaukee Bucks,Brooklyn Nets,2026-09-13T01:00:00Z,UPCOMING,1.55,0,2.50,Fiserv Forum,USA,false,false,72
+evt-032,Basketball,NBA,Utah Jazz,Portland,2026-09-14T03:30:00Z,UPCOMING,1.80,0,2.05,Delta Center,USA,false,false,65
+evt-033,Tennis,ATP 500,Medvedev,Tsitsipas,2026-09-11T14:00:00Z,UPCOMING,1.80,0,2.05,Indoor Arena,Austria,false,false,70
+evt-034,Tennis,ATP Masters 1000,Zverev,Fritz,2026-09-12T15:00:00Z,UPCOMING,1.50,0,2.60,Indoor Arena,Switzerland,false,false,68
+evt-035,Cricket,T20 World Cup,India,Pakistan,2026-09-14T15:00:00Z,UPCOMING,1.70,0,2.20,Nassau County,USA,true,false,90
+evt-036,Cricket,T20 World Cup,West Indies,Sri Lanka,2026-09-15T15:00:00Z,UPCOMING,2.00,0,1.85,Tarouba,Trinidad,false,false,72
+evt-037,Football,MLS,LA Galaxy,LAFC,2026-09-08T02:00:00Z,LIVE,2.60,3.20,2.60,Rose Bowl,USA,false,true,65
+evt-038,Football,Eredivisie,Ajax,PSV,2026-09-09T18:45:00Z,UPCOMING,1.80,3.70,4.20,Johan Cruyff Arena,Netherlands,false,false,70
+evt-039,Football,Liga Portugal,Porto,Benfica,2026-09-10T20:00:00Z,UPCOMING,2.10,3.30,3.40,Estadio do Dragao,Portugal,false,false,72
+evt-040,Football,Super Lig,Galatasaray,Fenerbahce,2026-09-11T19:00:00Z,UPCOMING,1.90,3.40,4.00,RAMS Park,Turkey,false,false,74
+evt-041,Basketball,NBA,Cleveland Cavaliers,Indiana Pacers,2026-09-15T00:00:00Z,UPCOMING,1.65,0,2.30,Rocket Arena,USA,false,false,68
+evt-042,Basketball,NBA,Orlando Magic,Charlotte Hornets,2026-09-16T00:00:00Z,UPCOMING,1.90,0,1.95,Amway Center,USA,false,false,62
+evt-043,Tennis,Davis Cup,Spain,Serbia,2026-09-13T10:00:00Z,UPCOMING,1.70,0,2.20,Palacio Deportes,Spain,false,false,65
+evt-044,Tennis,ATP Finals,Sinner,Ruud,2026-09-14T15:00:00Z,UPCOMING,1.45,0,2.80,Turin Arena,Italy,false,false,74
+evt-045,Cricket,ODI,New Zealand,South Africa,2026-09-16T04:00:00Z,UPCOMING,1.95,0,1.90,Eden Park,NZ,false,false,68
+evt-046,Football,Champions League,PSG,Arsenal,2026-09-17T20:00:00Z,UPCOMING,1.85,3.40,4.10,Parc des Princes,France,true,false,86
+evt-047,Football,Premier League,Aston Villa,Man City,2026-09-18T15:00:00Z,UPCOMING,4.20,3.80,1.75,Villa Park,England,false,false,80
+evt-048,Football,Bundesliga,Leverkusen,Leipzig,2026-09-19T17:30:00Z,UPCOMING,1.90,3.50,3.90,BayArena,Germany,false,false,75
+evt-049,Football,Serie A,Lazio,Roma,2026-09-20T17:00:00Z,UPCOMING,2.40,3.20,2.90,Olimpico,Italy,false,false,77
+evt-050,Football,La Liga,Valencia,Villarreal,2026-09-21T15:00:00Z,UPCOMING,2.20,3.30,3.20,Mestalla,Spain,false,false,66
+evt-051,Casino,Slots,4 Crazy Cluckers,FEG Featured Slot,2026-09-08T00:00:00Z,LIVE,0,0,0,Online Casino,Croatia,true,true,92
+evt-052,Casino,Slots,Book of Kings,Classic Slot,2026-09-08T00:00:00Z,LIVE,0,0,0,Online Casino,Global,false,true,88
+evt-053,Casino,Jackpots,Desert Wealth Clover Chance,Progressive Jackpot,2026-09-08T00:00:00Z,LIVE,0,0,0,Online Casino,Global,true,true,90
+evt-054,Casino,Slots,Multi Coins Pro,Bonus Buy,2026-09-09T00:00:00Z,UPCOMING,0,0,0,Online Casino,Global,false,false,76
+evt-055,Live Casino,Live Blackjack,First Person Lightning Blackjack,Evolution Gaming,2026-09-08T00:00:00Z,LIVE,0,0,0,Live Studio,Malta,true,true,91
+evt-056,Live Casino,Live Blackjack,Premium Blackjack Single Hand,Playtech,2026-09-08T00:00:00Z,LIVE,0,0,0,Live Studio,Latvia,false,true,86
+evt-057,Live Casino,Live Roulette,European Roulette,VIP Table,2026-09-08T00:00:00Z,LIVE,0,0,0,Live Studio,Malta,true,true,89
+evt-058,Live Casino,Live Baccarat,Speed Baccarat,Lightning Studio,2026-09-09T00:00:00Z,UPCOMING,0,0,0,Live Studio,Philippines,false,false,79
+evt-059,Virtual,Virtual Football,eNogomet Premier Cup,Match Day 14,2026-09-08T10:00:00Z,LIVE,1.90,3.30,4.10,Virtual Arena,Global,true,true,75
+evt-060,Virtual,Virtual Basketball,eKošarka Pro League,Quarter Final,2026-09-08T11:00:00Z,LIVE,1.85,0,1.95,Virtual Court,Global,true,true,72
+evt-061,Virtual,Virtual Horse Racing,Royal Derby,Race 5,2026-09-08T10:30:00Z,LIVE,0,0,0,Virtual Track,Global,false,true,68
+evt-062,Virtual,Virtual Tennis,Virtual Open,Semi Final,2026-09-09T12:00:00Z,UPCOMING,1.75,0,2.10,Virtual Court,Global,false,false,65
+evt-063,Lotto,EuroJackpot,EuroJackpot,Draw 2026-38,2026-09-13T20:00:00Z,UPCOMING,0,0,0,Online,Europe,true,false,62
+evt-064,Lotto,Powerball,Powerball USA,Draw 1247,2026-09-14T23:00:00Z,UPCOMING,0,0,0,Online,USA,true,false,60
+evt-065,Ice Hockey,NHL,NY Rangers,Boston Bruins,2026-09-08T23:00:00Z,LIVE,2.15,3.90,2.65,Madison Square Garden,USA,true,true,84
+evt-066,Ice Hockey,NHL,Colorado Avalanche,Edmonton Oilers,2026-09-09T01:30:00Z,UPCOMING,2.05,4.10,2.80,Ball Arena,USA,true,false,79
+evt-067,Ice Hockey,Europe,Medveščak Zagreb,Red Bull Salzburg,2026-09-10T18:00:00Z,UPCOMING,2.40,3.80,2.30,Dom Sportova,Croatia,false,false,71
+evt-068,Volleyball,World Championship,Poland,Italy,2026-09-08T18:30:00Z,LIVE,1.75,0,2.05,Spodek Arena,Poland,true,true,82
+evt-069,Volleyball,CEV Champions League,Trentino Volley,Perugia,2026-09-09T19:00:00Z,UPCOMING,1.85,0,1.95,BLM Group Arena,Italy,false,false,75
+evt-070,Combat Sports,UFC 310,Jon Jones,Stipe Miocic,2026-09-14T03:00:00Z,UPCOMING,1.45,0,2.85,T-Mobile Arena,USA,true,false,91
+evt-071,Combat Sports,UFC,Islam Makhachev,Arman Tsarukyan,2026-09-15T04:00:00Z,UPCOMING,1.38,0,3.10,Etihad Arena,UAE,true,false,87
+evt-072,Baseball,MLB,NY Yankees,LA Dodgers,2026-09-08T23:10:00Z,LIVE,1.90,0,1.95,Yankee Stadium,USA,true,true,83
+evt-073,Baseball,MLB,Houston Astros,Atlanta Braves,2026-09-09T00:05:00Z,UPCOMING,1.82,0,2.05,Minute Maid Park,USA,false,false,74

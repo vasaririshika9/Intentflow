@@ -1,0 +1,79 @@
+# ==========================================================
+# IntentFlow — Comprehensive .gitignore
+# Covers Node.js, Vite, Vue 3, Environments, OS & Editor files
+# ==========================================================
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment Variables & Secrets (CRITICAL: Never commit credentials)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+*.env
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+
+# Bundler & Cache directories
+.vite/
+.cache/
+.temp/
+.tmp/
+.eslintcache
+.stylelintcache
+
+# Logs & Debuggers
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Testing & Coverage
+coverage/
+*.lcov
+.nyc_output/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Editor & IDE Directories
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.sublime-project
+*.sublime-workspace
+
+# Large Data & Archives (>50MB GitHub limits)
+*.zip
+*.tar.gz
+*.rar
+top_sport_users_event_logs.csv

@@ -1,0 +1,608 @@
+{
+  "source": "top_sport_users_event_logs.csv",
+  "totalAnalyzed": 536,
+  "extractedSampleCount": 150,
+  "sessionsCount": 27,
+  "logs": [
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1787236397",
+      "timestamp": "2026-08-20 14:52:16.230034 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1vb-03y",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:45:03.105052 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786890773",
+      "timestamp": "2026-08-16 14:40:06.465048 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:12.377076 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786874272",
+      "timestamp": "2026-08-16 10:05:05.675012 UTC",
+      "platform": "SB iOS",
+      "screen": "homepage",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1vd-01r",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1787411174",
+      "timestamp": "2026-08-22 15:42:41.141004 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:43:17.879001 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1786874272",
+      "timestamp": "2026-08-16 09:58:46.801021 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1787386464",
+      "timestamp": "2026-08-22 08:35:00.353004 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1vd-0br",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1786280216",
+      "timestamp": "2026-08-09 13:48:31.738018 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1786288800",
+      "timestamp": "2026-08-09 16:43:09.417027 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:48.032152 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v7-00o",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:24.45709 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v7-0ax",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786890773",
+      "timestamp": "2026-08-16 14:51:25.166113 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v7-0ax",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786288800",
+      "timestamp": "2026-08-09 16:02:34.384023 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v0-05x",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786288800",
+      "timestamp": "2026-08-09 16:02:56.254065 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v0-05h",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786462749",
+      "timestamp": "2026-08-11 15:40:12.564034 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1v2-026",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1785850207",
+      "timestamp": "2026-08-04 15:40:23.631006 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1787317130",
+      "timestamp": "2026-08-21 14:00:23.316 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1787474611",
+      "timestamp": "2026-08-23 09:08:15.230063 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1ve-0gt",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1787474611",
+      "timestamp": "2026-08-23 08:59:07.635091 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1787474611",
+      "timestamp": "2026-08-23 08:57:23.945048 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786387338",
+      "timestamp": "2026-08-10 19:53:21.28101 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Tenis",
+      "fixtureId": "ufo:mtch:1v1-0gk",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1787474611",
+      "timestamp": "2026-08-23 08:56:02.894008 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1ve-0py",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed",
+      "session": "1787236397",
+      "timestamp": "2026-08-20 14:52:16.227032 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:42.502142 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:12.381079 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786874272",
+      "timestamp": "2026-08-16 09:58:41.994019 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1v7-00r",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:52.38502 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:52.391025 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1787392194",
+      "timestamp": "2026-08-22 10:06:10.715107 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1786874272",
+      "timestamp": "2026-08-16 10:00:44.544002 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1785850207",
+      "timestamp": "2026-08-04 15:41:18.163029 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1uv-01n",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1787330817",
+      "timestamp": "2026-08-21 17:24:11.281004 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1vd-02s",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1787392194",
+      "timestamp": "2026-08-22 10:05:37.046056 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1787392194",
+      "timestamp": "2026-08-22 10:07:14.428088 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1787392194",
+      "timestamp": "2026-08-22 10:06:54.484033 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1vd-01n",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1787392194",
+      "timestamp": "2026-08-22 10:05:47.966063 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1vd-0br",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:43:44.384011 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v7-013",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786890773",
+      "timestamp": "2026-08-16 14:51:25.163111 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v7-0c5",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786288800",
+      "timestamp": "2026-08-09 16:02:56.269074 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v0-05e",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1786288800",
+      "timestamp": "2026-08-09 16:02:34.381022 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1v0-08o",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786462749",
+      "timestamp": "2026-08-11 16:11:24.506023 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1v2-02z",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786462749",
+      "timestamp": "2026-08-11 15:58:17.392013 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1v2-026",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1785950717",
+      "timestamp": "2026-08-05 17:35:23.924007 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1787330817",
+      "timestamp": "2026-08-21 17:24:07.307001 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed_bet",
+      "session": "1788100925",
+      "timestamp": "2026-08-30 14:49:14.630006 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "ufo:mtch:1vl-09q",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1787060587",
+      "timestamp": "2026-08-18 13:43:47.179018 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchLeagues",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1v9-03e",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1788100925",
+      "timestamp": "2026-08-30 14:49:18.800027 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchLeagues",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1788100925",
+      "timestamp": "2026-08-30 14:42:46.436017 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1vl-09o",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786288800",
+      "timestamp": "2026-08-09 16:03:04.567095 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786288800",
+      "timestamp": "2026-08-09 15:57:24.914012 UTC",
+      "platform": "SB iOS",
+      "screen": "liveDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1v0-017",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786295798",
+      "timestamp": "2026-08-09 17:17:20.138016 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "Nogomet",
+      "fixtureId": "ufo:mtch:1v0-08p",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:52.388022 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:52.390024 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_add_bet",
+      "session": "1786879024",
+      "timestamp": "2026-08-16 11:44:28.928106 UTC",
+      "platform": "SB iOS",
+      "screen": "ticketDetail",
+      "sport": "Nogomet",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1787392194",
+      "timestamp": "2026-08-22 10:00:25.453006 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1787392194",
+      "timestamp": "2026-08-22 10:07:49.113006 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "fortuna_screen_view",
+      "session": "1786890773",
+      "timestamp": "2026-08-16 15:40:10.613004 UTC",
+      "platform": "SB iOS",
+      "screen": "prematchDetail",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    },
+    {
+      "eventName": "betslip_placed",
+      "session": "1787392194",
+      "timestamp": "2026-08-22 10:06:54.474027 UTC",
+      "platform": "SB iOS",
+      "screen": "betslip",
+      "sport": "",
+      "fixtureId": "",
+      "playerId": "c29c42be64..."
+    }
+  ]
+}

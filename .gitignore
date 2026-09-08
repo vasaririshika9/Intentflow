@@ -1,0 +1,51 @@
+# ==========================================================
+# FEG Workspace Root .gitignore
+# ==========================================================
+
+# Dependencies across all packages
+node_modules/
+*/node_modules/
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+*/.env
+*/.env.*
+
+# Build outputs
+dist/
+*/dist/
+dist-ssr/
+*/dist-ssr/
+build/
+*/build/
+
+# Caches
+.vite/
+*/.vite/
+.cache/
+*/.cache/
+.temp/
+.tmp/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS and Editor
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.vscode/
+.idea/
+
+# Large Datasets (>100MB GitHub limit)
+# Note: The 194MB raw CSV is excluded from Git to prevent GitHub rejection.
+top_sport_users_event_logs.csv
+*.tar.gz
+*.zip
