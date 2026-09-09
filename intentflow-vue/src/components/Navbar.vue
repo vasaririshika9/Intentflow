@@ -19,6 +19,9 @@
         <RouterLink to="/lotto" class="nav-item">Lotto</RouterLink>
         <RouterLink to="/virtual" class="nav-item">Virtual</RouterLink>
         <RouterLink to="/product-impact" class="nav-item">Impact</RouterLink>
+        <RouterLink to="/ontology" class="nav-item nav-item--ontology">
+          <span class="ontology-icon">🧠</span>Ontology
+        </RouterLink>
       </div>
 
       <!-- Right actions -->
@@ -155,6 +158,20 @@ const safetyTitle = computed(() =>
 .nav-item--active { color: var(--color-primary-light) !important; background: rgba(26,115,232,0.12); }
 .nav-item--live { color: #f87171; }
 .nav-item--live:hover { color: #fca5a5; }
+.nav-item--ontology {
+  color: #c084fc;
+  background: rgba(168, 85, 247, 0.08);
+  border: 1px solid rgba(168, 85, 247, 0.25);
+}
+.nav-item--ontology:hover {
+  color: #f3e8ff;
+  background: rgba(168, 85, 247, 0.18);
+  border-color: rgba(168, 85, 247, 0.45);
+}
+.ontology-icon {
+  margin-right: 4px;
+  font-size: 0.85rem;
+}
 .nav-item--dim { opacity: 0.45; cursor: default; }
 .live-dot {
   width: 6px; height: 6px; border-radius: 50%;

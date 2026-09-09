@@ -15,6 +15,7 @@ const routes = [
   { path: '/completion', component: () => import('@/views/Completion.vue') },
   { path: '/session-quality', component: () => import('@/views/SessionQuality.vue') },
   { path: '/product-impact', component: () => import('@/views/ProductImpact.vue') },
+  { path: '/ontology', component: () => import('@/views/OntologyView.vue') },
   { path: '/:pathMatch(.*)*', redirect: '/' },
 ]
 
